@@ -4,6 +4,7 @@
 
 - [ChatGPT](https://chat.openai.com/) 
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- PDF
 
 ## 🧠 Prompts
 
